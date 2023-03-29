@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "thuong-mai-app",
+    "slug": "thuong-mai-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "thuong-mai-app"
+}
